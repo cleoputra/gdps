@@ -57,6 +57,13 @@
 					<span>E-RECRUITMENT</span>
 				</div>
 
+
+				<div class="container-contact100-form-btn">
+					<button class="contact100-form-btn" onclick="goBack()">
+						Back to Prev Page
+					</button>
+				</div>
+
 				<form class="contact100-form validate-form" id="e-recruit" method="POST" action="{{ route('submit') }}" enctype="multipart/form-data">
 					@csrf
 					@if (session('success'))
@@ -210,5 +217,11 @@
 
 	  gtag('config', 'UA-23581568-13');
 	</script>
+	<script>
+		function goBack() {
+		  window.history.back();
+		}
+	</script>
+
 </body>
 </html>

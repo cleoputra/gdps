@@ -29,7 +29,7 @@
                     <div class="section-heading text-center mb-100">
                         <div class="line"></div>
                         <p>Take look at our</p>
-                        <h2>Our services</h2>
+                        <h2>Our Services</h2>
                     </div>
                 </div>
             </div>
@@ -46,9 +46,9 @@
                 <div class="section-heading white mb-50">
                     <div class="line"></div>
                     <p>SERVICE</p>
-                    <h2>Helper Teknisi Pesawat</h2>
+                    <h2>Aircraft Technical Assistance</h2>
                 </div>
-                <h6>Setiap teknisi pesawat bertugas memastikan bahwa pesawat berada dalam kondisi yang prima dan tidak terkendala. Tugas Teknisi Pesawat ini akan dibantu oleh seorang. <br>PT. GDPS hadir untuk memberikan solusi kepada setiap perusahaan penerbangan dan perusahaan maintenance pesawat dimana, akan menyediakan sumber daya yang memberikan jasa secara profesional sebagai seorang Helper Teknisi Pesawat</h6>
+                <h6>PT. GDPS hadir untuk memberikan solusi kepada setiap perusahaan penerbangan dan perusahaan maintenance pesawat dimana, akan menyediakan sumber daya yang memberikan jasa secara profesional sebagai seorang Technical Assistance Pesawat</h6>
             </div>
         </div>
         <!-- Special Feature Thumbnail -->
@@ -59,7 +59,7 @@
     <!-- ##### Special Feature Area Start ###### -->
     <section class="special-feature-area style-2 d-flex flex-wrap">
         <!-- Special Feature Thumbnail -->
-        <div class="special-feature-thumbnail bg-img jarallax" style="background-image: url(img/ground-h.jpg);"></div>
+        <div class="special-feature-thumbnail bg-img jarallax" style="background-image: url(img/Foto/a1.jpg);"></div>
         <!-- Special Feature Content -->
         <div class="special-feature-content section-padding-100">
             <div class="feature-text">
@@ -67,7 +67,7 @@
                 <div class="section-heading white mb-50">
                     <div class="line"></div>
                     <p>SERVICE</p>
-                    <h2>Ground Handling Pesawat</h2>
+                    <h2>Aircraft Ground Handling</h2>
                 </div>
                 <h6>PT. GDPS hadir dalam memberikan pelayanan jasa untuk menunjang proses bisnis perusahaan penerbangan dan pelayanan terhadap setiap penumpang. Ground Handling pesawat adalah aktivitas pelayanan terhadap para penumpang berikut bagasinya, cargo, pos, dan peralatan pembantu pergerakan pesawat di darat dan pesawat terbang itu sendiri selama berada di Bandar udara, baik untuk keberangkatan (departure) maupun untuk kedatangan (arrival).</h6>
             </div>
@@ -107,7 +107,7 @@
                     <p>SERVICE</p>
                     <h2>Administration</h2>
                 </div>
-                <h6>Seperti yang kita ketahui administrasi sendiri merupakan suatu perencanaan, pengendalian dan pengorganisasian pekerjaan pada sebuah perkantoran serta menjadi penggerak kepada mereka yang menjalankannya agar tujuan yang telah ditetapkan dapat tercapai.<br><br>PT. GDPS menyediakan layanan untuk pekerjaan administrasi dimana tugas ini akan didukung oleh personil yang memiliki keterampilan dan kemampuan mengorganisasi, memvalidasi dokumen serta keharusan untuk selalu menjaga kerahasiaan informasi. Layanan ini diberikan untuk mendukung proses bisnis dan demi keberhasilan perusahaan pelanggan dalam menjalankan usaha. Personil yang ditugaskan mampu melakukan pekerjaan secara teliti dan konsisten.</h6>
+                <h6>Administrasi merupakan suatu perencanaan, pengendalian dan pengorganisasian pekerjaan pada sebuah perkantoran serta menjadi penggerak kepada mereka yang menjalankannya agar tujuan yang telah ditetapkan dapat tercapai.<br><br>PT. GDPS menyediakan layanan untuk pekerjaan administrasi dimana tugas ini akan didukung oleh personil yang memiliki keterampilan dan kemampuan mengorganisasi, memvalidasi dokumen serta keharusan untuk selalu menjaga kerahasiaan informasi. Layanan ini diberikan untuk mendukung proses bisnis dan demi keberhasilan perusahaan pelanggan dalam menjalankan usaha. Personil yang ditugaskan mampu melakukan pekerjaan secara teliti dan konsisten.</h6>
             </div>
         </div>
     </section>
@@ -145,13 +145,13 @@
                     <p>SERVICE</p>
                     <h2>Front Office</h2>
                 </div>
-                <h6>Kesan pertama kali setiap pengunjung akan ditentukan oleh Petugas Front Office yang dimana akan melayani setiap pertanyaan serta memberikan tanggapan terhadap customer. Tidak Hanya disitu tugas tanggapan yang diterima akan diteruskan kepada pihak-pihak yang terkait dengan perusahaan. Kemampuan komunikasi, kecepatan dalam merespon serta keramahan merupakan keahlian wajib yang dimiliki oleh setiap petugas.<br><br>PT GPDS hadir dalam memberikan jasa secara profesional dengan kualitas yang baik tentunya didorong oleh sumber daya manusia yang berpengalaman serta teknologi untuk mendukung proses pertukaran informasi antara petugas Front Office dengan tamu secara cepat dan tepat.</h6>
+                <h6>Kesan pertama kali setiap pengunjung akan ditentukan oleh Petugas Front Office yang dimana akan melayani setiap pertanyaan serta memberikan tanggapan terhadap customer yang kemudian, tugas tanggapan yang diterima akan diteruskan kepada pihak-pihak yang terkait dengan perusahaan. Kemampuan komunikasi, kecepatan dalam merespon serta keramahan merupakan keahlian wajib yang dimiliki oleh setiap petugas.<br><br>PT. GPDS hadir dalam memberikan jasa secara profesional dengan kualitas yang baik tentunya didorong oleh sumber daya manusia yang berpengalaman serta teknologi untuk mendukung proses pertukaran informasi antara petugas Front Office dengan tamu secara cepat dan tepat.</h6>
             </div>
         </div>
     </section>
     <!-- ##### Special Feature Area End ###### -->
 
-<!-- ##### Special Feature Area Start ###### -->
+    <!-- ##### Special Feature Area Start ###### -->
     <section class="special-feature-area d-flex flex-wrap">
         <!-- Special Feature Content -->
         <div class="special-feature-content section-padding-100">
@@ -162,13 +162,14 @@
                     <p>SERVICE</p>
                     <h2>Aviation Security</h2>
                 </div>
-                <h6>Dalam suatu lingkungan dibutuhkan perasaan aman dan nyaman dimana terdapat keadaan bebas dari bahaya.Kata bahaya yang dalam konteks ini merujuk pada tindakan kejahatan, kecelakaan dan tindakan lainnya yang disengaja maupun tidak.<br><br>PT. GDPS bekerja sama dengan Anda untuk bersama-sama menciptakan dan membangun langkah-langkah keamanan yang terukur. Kami berkomitmen untuk menjaga masa depan kita dari berbagai ancaman keamanan yang terjadi saat ini dan nanti.</h6>
+                <h6>Aviation Security merupakan personil keamanan yang diberikan tugas  pokok untuk menjamin keamanan dan keselamatan penerbangan sipil di Indonesia dari tindakan melawan hukum dan juga memberikan perlindungan keamanan terhadap awak pesawat udara, pesawat udara, penumpang, instalasi Bandar Udara, para petugas di darat, masyarakat dan pengguna jasa penerbangan lainnya dari tindakan melawan hukum.<br><br>PT. GDPS hadir dalam memenuhi aturan-aturan internasional dan nasional sebagai pengelola dan penyedia jasa keamanan bandara, demi membantu melaksanakan keamanan dan keselamatan penerbangan serta kelancaran pelayanannya.</h6>
             </div>
-        </div>
+        </div>  
         <!-- Special Feature Thumbnail -->
         <div class="special-feature-thumbnail bg-img jarallax" style="background-image: url(img/aviation-s.jpg);"></div>
     </section>
     <!-- ##### Special Feature Area End ###### -->
+
 
     <!-- ##### Special Feature Area Start ###### -->
     <section class="special-feature-area style-2 d-flex flex-wrap">
@@ -181,7 +182,7 @@
                 <div class="section-heading white mb-50">
                     <div class="line"></div>
                     <p>SERVICE</p>
-                    <h2>Office & Building</h2>
+                    <h2>Office & Building Management</h2>
                 </div>
                 <h6>PT. GDPS menyediakan servis untuk menunjang kompetensi sebuah perusahaan dimana mulai dari kebersihan, kenyamanan, serta keamanan merupakan hal yang wajib dimiliki sebuah perusahaan untuk memelihara kualitas pekerjaan yang maksimal, servis yang diberikan antara lain:</h6>
                 <h6 class="mb-0">&#8857 Maintenance Helper<br></h6>
@@ -191,6 +192,25 @@
                 <h6 class="mb-0">&#8857 Cleaning Service<br></h6>
             </div>
         </div>
+    </section>
+    <!-- ##### Special Feature Area End ###### -->
+
+    <!-- ##### Special Feature Area Start ###### -->
+    <section class="special-feature-area d-flex flex-wrap">
+        <!-- Special Feature Content -->
+        <div class="special-feature-content section-padding-100">
+            <div class="feature-text">
+                <!-- Section Heading -->
+                <div class="section-heading white mb-50">
+                    <div class="line"></div>
+                    <p>SERVICE</p>
+                    <h2>Security Guard</h2>
+                </div>
+                <h6>Dalam suatu lingkungan dibutuhkan perasaan aman dan nyaman dimana terdapat keadaan bebas dari bahaya. Kata bahaya yang dalam konteks ini merujuk pada tindakan kejahatan, kecelakaan dan tindakan lainnya yang disengaja maupun tidak.<br><br>PT. GDPS bekerja sama dengan Anda untuk bersama-sama menciptakan dan membangun langkah-langkah keamanan yang terukur. Kami berkomitmen untuk menjaga masa depan kita dari berbagai ancaman keamanan yang terjadi saat ini dan nanti.</h6>
+            </div>
+        </div>
+        <!-- Special Feature Thumbnail -->
+        <div class="special-feature-thumbnail bg-img jarallax" style="background-image: url(img/security.jpg);"></div>
     </section>
     <!-- ##### Special Feature Area End ###### -->
 

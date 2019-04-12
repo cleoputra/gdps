@@ -20,16 +20,6 @@
 </head>
 
 <body>
-    <!-- Preloader -->
-    <div class="preloader d-flex align-items-center justify-content-center">
-        <div class="lds-ellipsis">
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-        </div>
-    </div>
-
     <!-- ##### Header Area Start ##### -->
     <header class="header-area">
         <!-- Top Header Area -->
@@ -39,13 +29,13 @@
                     <div class="col-12 d-flex justify-content-between">
                         <!-- Logo Area -->
                         <div class="logo">
-                            <a href="{{route('index')}}"><img src="{{asset('img/logo_small.png')}}" alt=""></a>
+                            <a href="{{route('index')}}"><img src="{{asset('img/gdps_logo.png')}}" alt=""></a>
                         </div>
 
                         <!-- Top Contact Info -->
                         <div class="top-contact-info d-flex align-items-center">
                             <a href="#" data-toggle="tooltip" data-placement="bottom" title="Cikokol, Jl. Jenderal Sudirman No.1, Babakan, Kota Tangerang "><img src="img/core-img/placeholder.png" alt=""> <span>Tangcity Business Park Blok F No. 32</span></a>
-                            <a href="#" data-toggle="tooltip" data-placement="bottom" title="info@garudapratama.com"><img src="img/core-img/message.png" alt=""> <span>info@garudapratama.com</span></a>
+                            <a href="#" data-toggle="tooltip" data-placement="bottom" title="info@garudapratama.com"><img src="img/core-img/message.png" alt=""> <span>marketing@garudapratama.com</span></a>
                         </div>
                     </div>
                 </div>
@@ -87,7 +77,7 @@
 
                         <!-- Contact -->
                         <div class="contact">
-                            <a href="#"><img src="img/core-img/call2.png" alt=""> +62 858 86105226</a>
+                            <a href="#"><img src="img/core-img/call2.png" alt=""> 021 550-xxxx(Active Soon)</a>
                         </div>
                     </nav>
                 </div>
